@@ -1,1 +1,1 @@
-Run with  tsc && node bundle/index.js
+Run with :  tsc && node bundle/index.js
